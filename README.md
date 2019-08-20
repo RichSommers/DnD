@@ -16,4 +16,4 @@ related
 
 Soundboard to do battle music
 
-[First Example](First.htm;)
+[First Example](First.html)
