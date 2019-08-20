@@ -1,0 +1,20 @@
+<DOCTYPE html>
+<html>
+<head>
+<title>First Campaign</title>
+</head>
+<body>
+<h1>Story</h1>
+
+
+<h2>
+You start off in <a href="TOWN1"> FIRST TOWN </a>
+</h2>
+wow
+
+
+<h2 id="TOWN1">Starting Town:</h2>
+	People i guess
+
+</body>
+</html>
